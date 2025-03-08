@@ -1,5 +1,5 @@
-public class MallardDuck extends Duck {
-    public MallardDuck() {
+public class RedHeadDuck extends Duck {
+    public RedHeadDuck() {
         quackBehaviour = new Quack();
         swimBehaviour = new CanSwim();
         flyBehaviour = new CanFly();
@@ -7,6 +7,6 @@ public class MallardDuck extends Duck {
 
     @Override
     public void display() {
-        System.out.println("I am a Mallard Duck");
+        System.out.println("I am a Redhead Duck");
     }
 }
