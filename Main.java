@@ -1,3 +1,7 @@
+
+// Prikshit Gaur
+// AIML - B1
+// 23070126094
 public class Main {
     public static void main(String[] args) {
         Duck mallardDuck = new MallardDuck();

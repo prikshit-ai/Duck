@@ -1,5 +1,5 @@
-public class RedHeadDuck extends Duck {
-    public RedHeadDuck() {
+public class RedheadDuck extends Duck {
+    public RedheadDuck() {
         quackBehaviour = new Quack();
         swimBehaviour = new CanSwim();
         flyBehaviour = new CanFly();
