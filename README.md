@@ -1,7 +1,9 @@
 Duck Simulation Program (Strategy Pattern) 🦆
 
 Overview
-This program demonstrates the Strategy Design Pattern using a Duck simulation. The behavior of ducks (flying, quacking, and swimming) is encapsulated into separate interfaces and can be dynamically assigned to different duck types.
+This program demonstrates the Strategy Design Pattern using a Duck simulation.
+
+The behavior of ducks (flying, quacking, and swimming) is encapsulated into separate interfaces and can be dynamically assigned to different duck types.
 
 Concepts Used
 Object-Oriented Programming (OOP)
